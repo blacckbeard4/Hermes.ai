@@ -72,8 +72,4 @@ cd HermesAI
 - After running the command, Streamlit will provide a local URL (e.g., `http://localhost:8501`) — open it in your browser.
 
 
----
 
-
-
-> **This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.**
