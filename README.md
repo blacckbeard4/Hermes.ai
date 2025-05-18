@@ -33,16 +33,6 @@ HermesAI aims to transform every communicator into a composed, confident, and ef
 
 ---
 
-## Team 14 Members
-- Jacob Battles
-- Justin Varghese
-- Anna Niedermeyer
-- Sitong Li
-- Bhargavi Pissay
-- Dharmpalsinh Jhala
-
----
-
 ## 🚀 How to Set Up and Run
 
 ### 1. Clone the Repository
